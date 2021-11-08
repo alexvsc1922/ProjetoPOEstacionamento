@@ -1,8 +1,8 @@
 
-package projetopoestacionamento;
+package backend;
 
 
-public class ProjetoPOEstacionamento {
+public class Administrador {
 
     
     public static void main(String[] args) {

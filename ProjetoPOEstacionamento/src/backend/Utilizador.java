@@ -3,12 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package projetopoestacionamento;
+package backend;
 
 /**
  *
  * @author LC
  */
-public class Utente {
+public class Utilizador {
     
 }
